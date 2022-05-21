@@ -1,5 +1,5 @@
-Esto es un documento txt
+Esto es un documento txt escrito el dia de hoy
 
-guiado y dirigido por kairiyama, cristian nahuel
+fue guiado y dirigido por kairiyama, cristian nahuel
 
-esto es el footter de mi archivo
+esto es el footter de su archivo
